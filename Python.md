@@ -38,6 +38,15 @@
 | 36 | <b>map</b> | [View](https://realpython.com/python-map-function/)
 | 37 | <b>reduce</b> | [View](https://realpython.com/python-reduce-function/ )
 | 38 | <b>boolean</b> | [View](https://realpython.com/python-boolean/ )
-| 39 | <b>None</b> | [View](https://realpython.com/null-in-python/)
-
-
+| 39 | <b>None Type</b> | [View](https://realpython.com/null-in-python/)
+| 40 | <b>getting-user-input-in-python</b> | [View](https://stackabuse.com/getting-user-input-in-python/)
+| 41 | <b>class-and-static-methods</b> | [View](https://realpython.com/instance-class-and-static-methods-demystified/)
+| 42 | <b>Mutable Default Arguments</b> | [View](https://www.youtube.com/watch?v=_JGmemuINww)
+| 43 | <b>async io</b> | [View](https://realpython.com/async-io-python/)
+| 44 | <b>quick reads</b> | [View](https://www.activestate.com/resources/quick-reads/python-dependencies-everything-you-need-to-know/)
+| 45 | <b>python-pass-by-reference</b> | [View](https://realpython.com/python-pass-by-reference/)
+| 46 | <b>python-dependencies</b> | [View](https://www.activestate.com/resources/quick-reads/python-dependencies-everything-you-need-to-know/)
+| 47 | <b>GIL</b> | [View](https://realpython.com/python-gil/)
+| 48 | <b>multithreading-vs-multiprocessing</b> | [View](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)
+| 49 | <b>multithreading-vs-multiprocessing 2</b> | [View](https://medium.com/contentsquare-engineering-blog/multithreading-vs-multiprocessing-in-python-ece023ad55a)
+| 50 | <b>END</b> | [View](END)
