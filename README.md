@@ -5,5 +5,5 @@ This repository is a collection of useful study links, provides specific study m
 
 | Tool   | Links |
 |------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| <b>Python</b>| [View](test)|
+| <b>Python</b>| [View](https://github.com/Pythonyte/Notes/blob/main/Python.md)|
 | <b>Django</b>| [View](test)|
