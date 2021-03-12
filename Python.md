@@ -30,3 +30,14 @@
 | 28 | <b>generators-in-python 2</b> | [View](https://realpython.com/introduction-to-python-generators/)
 | 29 | <b>context-managers</b> | [View](https://medium.com/better-programming/context-managers-in-python-go-beyond-with-open-as-file-85a27e392114)
 | 30 | <b>list-comprehension-and-beyond</b> | [View](https://towardsdatascience.com/list-comprehension-and-beyond-understand-4-key-related-techniques-in-python-3bff0f0a3ccb)
+| 31 | <b>array-vs-list</b> | [View](https://learnpython.com/blog/python-array-vs-list/)
+| 32 | <b>pickle</b> | [View](https://realpython.com/python-pickle-module/)
+| 33 | <b>scope</b> | [View](https://realpython.com/python-scope-legb-rule/)
+| 34 | <b>import</b> | [View](https://realpython.com/python-import/)
+| 35 | <b>file</b> | [View](https://realpython.com/read-write-files-python/)
+| 36 | <b>map</b> | [View](https://realpython.com/python-map-function/)
+| 37 | <b>reduce</b> | [View](https://realpython.com/python-reduce-function/ )
+| 38 | <b>boolean</b> | [View](https://realpython.com/python-boolean/ )
+| 39 | <b>None</b> | [View](https://realpython.com/null-in-python/)
+
+
